@@ -2,7 +2,7 @@ apiVersion: v2
 name: webmethods-devportal-configurator
 description: Configure webmethods devportal using simple environment variables - Configuration as Code for webmethods-devportal-configurator.
 home: https://github.com/sag-gov-integration-unit/webmethods-devportal-configurator
-version: "1.0.0"
+version: "1.0.1"
 appVersion: "1.0.0"
 maintainers:
   - name: fabien sanglier
